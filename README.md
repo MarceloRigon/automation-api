@@ -27,8 +27,8 @@ Para rodar este projeto, você precisará de:
 1. **Clone o repositório**:
 
 ```bash
-git clone https://github.com/seu-usuario/testes-api-restassured.git
-cd testes-api-restassured
+git clone https://github.com/MarceloRigon/automation-api.git
+cd automation-api
 ```
 2. **Instale as dependências**:
 
