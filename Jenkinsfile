@@ -10,7 +10,7 @@ pipeline {
         stages {
         stage('Clone do repositório') {
             steps {
-                git url: 'https://github.com/MarceloRigon/automation_api.git', branch: 'main' 
+                git url: 'https://github.com/MarceloRigon/automation-api.git', branch: 'main' 
             }
         }
 
